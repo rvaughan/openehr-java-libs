@@ -17,4 +17,5 @@ pom.xml.versionsBackup
 .settings
 bin
 .classpath
+.factorypath
 .project
