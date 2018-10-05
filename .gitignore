@@ -13,3 +13,8 @@ rm-skeleton/hypersensitivity_min.dadl
 # mvn versions:set
 pom.xml.versionsBackup
 
+# Eclipse related files
+.settings
+bin
+.classpath
+.project
